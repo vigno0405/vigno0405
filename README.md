@@ -9,8 +9,8 @@ I am particularly interested in automation, AI integration and soft robotics.
 
 - ⚙️ SEMP program and Master Thesis at EPFL in mechanical engineering  
 - ⚡ Member of Alta Scuola Politecnica, a multidisciplinary honours program for outstanding students from PoliMi and PoliTo  
-- 📊 M.Sc. in data science for industrial engineering at Politecnico di Milano  
-- 🛠️ B.Sc. in mechanical engineering at Politecnico di Milano  
+- 📊 M.Sc. in Data Science for Industrial Engineering at Politecnico di Milano  
+- 🛠️ B.Sc. in Mechanical Engineering at Politecnico di Milano  
 
 ---
 
