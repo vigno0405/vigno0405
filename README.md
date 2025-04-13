@@ -29,5 +29,6 @@ I am particularly interested in automation, AI integration and soft robotics.
 ## 📫 Contacts
 
 - 🔗 LinkedIn: www.linkedin.com/in/lorenzo-vignoli-60274a291
+- 🔗 Email: lorenzo.vignoli@epfl.ch
 
 ---
