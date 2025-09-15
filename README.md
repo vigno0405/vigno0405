@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Lorenzo
 
-Mechanical engineer with a strong background in machine learning, AI, statistics and data science.  
-I am particularly interested in automation, AI integration and soft robotics.
+My interests lie in integrating AI and machine learning into the design, modeling, and control of intelligent mechanical systems, with a particular focus on bioinspired robotics where conventional approaches are limited. I am particularly drawn to the paradigm of embodied intelligence and to compliant mechanisms, exploring how principles from nature can be applied to robotics to harness the flexibility and adaptability of real mechanical structures. My goal is to develop adaptive, data-driven approaches for perception and control that enable robust and versatile robotic behavior in dynamic environments.
 
 ---
 
@@ -29,6 +28,6 @@ I am particularly interested in automation, AI integration and soft robotics.
 ## 📫 Contacts
 
 - 🔗 LinkedIn: www.linkedin.com/in/lorenzo-vignoli-60274a291
-- 🔗 Email: lorenzo.vignoli@epfl.ch
+- 🔗 Email: lorenzo.vignoli0405@gmail.com
 
 ---
