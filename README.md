@@ -6,10 +6,10 @@ My interests lie in integrating AI and machine learning into the design, modelin
 
 ## 🧠 About me
 
-- ⚙️ SEMP program and Master Thesis at EPFL in mechanical engineering  
+- 🧑‍🔬 PhD student in Robotics at EPFL
+- ⚙️ SEMP program and Master Thesis at EPFL in Mechanical Engineering  
 - ⚡ Member of Alta Scuola Politecnica, a multidisciplinary honours program for outstanding students from PoliMi and PoliTo  
-- 📊 M.Sc. in Data Science for Industrial Engineering at Politecnico di Milano  
-- 🛠️ B.Sc. in Mechanical Engineering at Politecnico di Milano  
+- 📊 M.Sc. and B.Sc. in Mechanical Engineering at Politecnico di Milano
 
 ---
 
