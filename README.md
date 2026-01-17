@@ -1,4 +1,4 @@
-# Interested in bio-inspired control for robotic systems and design of compliant structures.
+Interested in bio-inspired control for robotic systems and design of compliant structures.
 
 ---
 
