@@ -17,12 +17,15 @@ My interests lie in the integration of compliant control and machine learning fo
 <br>
 
 🐙 &nbsp;**Compliant control of soft robots**
+
 Control architectures that exploit the natural dynamics of soft and continuum systems instead of suppressing them.
 
 🐘 &nbsp;**Modeling and sensing of compliant structures**
+
 Hybrid analytical and data-driven models for proprioception and state estimation of mechanically intelligent bodies.
 
 🐢 &nbsp;**Design of bio-inspired robots**
+
 Robotic platforms drawn from aquatic and terrestrial animals, with morphology and control co-designed for adaptive behavior.
 
 ---
