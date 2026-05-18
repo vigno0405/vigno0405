@@ -22,21 +22,21 @@ My interests lie in the integration of compliant control and machine learning fo
 <tr>
 <td align="center" width="33%">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f419.png" width="96" alt="Octopus" />
+<img src="assets/octopus.jpg" width="96" alt="Octopus" />
 <br><br>
 <h3>Interaction control<br>of soft robots</h3>
 <br>
 </td>
 <td align="center" width="33%">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f418.png" width="96" alt="Elephant" />
+<img src="assets/elephant.jpg" width="96" alt="Elephant" />
 <br><br>
 <h3>Modeling and sensing<br>of compliant structures</h3>
 <br>
 </td>
 <td align="center" width="33%">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f422.png" width="96" alt="Turtle" />
+<img src="assets/turtle.jpg" width="96" alt="Turtle" />
 <br><br>
 <h3>Design of<br>bio-inspired robots</h3>
 <br>
