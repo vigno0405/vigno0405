@@ -24,7 +24,7 @@ My interests lie in the integration of compliant control and machine learning fo
 <br>
 <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f419.png" width="96" alt="Octopus" />
 <br><br>
-<h3>Compliant control<br>of soft robots</h3>
+<h3>Interaction control<br>of soft robots</h3>
 <br>
 </td>
 <td align="center" width="33%">
