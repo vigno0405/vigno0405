@@ -18,36 +18,26 @@ My interests lie in the integration of compliant control and machine learning fo
 
 <table>
 <tr>
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%">
 
 ### 🐙
 
-**Compliant control of soft robots**
-
-<sub>Control architectures that exploit the natural dynamics of soft and continuum systems instead of suppressing them.</sub>
+**Compliant control<br>of soft robots**
 
 </td>
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%">
 
 ### 🐘
 
-**Modeling and sensing of compliant structures**
-
-<sub>Hybrid analytical and data-driven models for proprioception and state estimation of mechanically intelligent bodies.</sub>
+**Modeling and sensing<br>of compliant structures**
 
 </td>
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%">
 
 ### 🐢
 
-**Design of bio-inspired robots**
-
-<sub>Robotic platforms drawn from aquatic and terrestrial animals, with morphology and control co-designed for adaptive behavior.</sub>
+**Design of<br>bio-inspired robots**
 
 </td>
 </tr>
 </table>
-
----
-
-<p align="center"><sub>More at <a href="https://vigno0405.github.io">vigno0405.github.io</a></sub></p>
