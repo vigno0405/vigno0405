@@ -20,21 +20,21 @@ My interests lie in the integration of compliant control and machine learning fo
 
 <table>
 <tr>
-<td align="center" width="33%" style="padding: 6px 10px 4px;">
-  <div style="width: 110px; height: 110px; border-radius: 999px; overflow: hidden; border: 2px solid #dbeafe; box-shadow: 0 6px 14px rgba(15, 23, 42, 0.12); margin: 0 auto 10px;">
-    <img src="assets/octopus.jpg" alt="Octopus" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+<td align="center" valign="top" width="33%" style="padding: 6px 10px 4px;">
+  <div style="margin: 0 auto 10px; width: 110px; height: 110px;">
+    <img src="assets/octopus.jpg" alt="Octopus" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; display: block; border: 2px solid #dbeafe; box-shadow: 0 6px 14px rgba(15, 23, 42, 0.12);" />
   </div>
   <h3 style="margin: 0;">Interaction control<br>of soft robots</h3>
 </td>
-<td align="center" width="33%" style="padding: 6px 10px 4px;">
-  <div style="width: 110px; height: 110px; border-radius: 999px; overflow: hidden; border: 2px solid #dbeafe; box-shadow: 0 6px 14px rgba(15, 23, 42, 0.12); margin: 0 auto 10px;">
-    <img src="assets/elephant.jpg" alt="Elephant" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+<td align="center" valign="top" width="33%" style="padding: 6px 10px 4px;">
+  <div style="margin: 0 auto 10px; width: 110px; height: 110px;">
+    <img src="assets/elephant.jpg" alt="Elephant" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; display: block; border: 2px solid #dbeafe; box-shadow: 0 6px 14px rgba(15, 23, 42, 0.12);" />
   </div>
   <h3 style="margin: 0;">Modeling and sensing<br>of compliant structures</h3>
 </td>
-<td align="center" width="33%" style="padding: 6px 10px 4px;">
-  <div style="width: 110px; height: 110px; border-radius: 999px; overflow: hidden; border: 2px solid #dbeafe; box-shadow: 0 6px 14px rgba(15, 23, 42, 0.12); margin: 0 auto 10px;">
-    <img src="assets/turtle.jpg" alt="Turtle" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+<td align="center" valign="top" width="33%" style="padding: 6px 10px 4px;">
+  <div style="margin: 0 auto 10px; width: 110px; height: 110px;">
+    <img src="assets/turtle.jpg" alt="Turtle" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; display: block; border: 2px solid #dbeafe; box-shadow: 0 6px 14px rgba(15, 23, 42, 0.12);" />
   </div>
   <h3 style="margin: 0;">Design of<br>bio-inspired robots</h3>
 </td>
