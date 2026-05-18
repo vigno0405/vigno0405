@@ -36,5 +36,3 @@ My interests lie in the integration of compliant control and machine learning fo
 </table>
 
 </div>
-
-</div>
