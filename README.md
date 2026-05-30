@@ -21,7 +21,10 @@ My interests lie in the integration of compliant control and machine learning fo
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 <td align="center" valign="top" width="33%" style="padding: 6px 10px 4px; border: none;">
-  <img src="assets/octopus.jpg" alt="Octopus" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 2px solid #dbeafe; display: block; margin: 0 auto 10px;" />
+  <picture>
+    <source srcset="assets/octopus_dark.png" media="(prefers-color-scheme: dark)" />
+    <img src="assets/octopus.png" alt="Octopus" width="180" height="180" />
+  </picture>
   <h3 style="margin: 0;">Interaction control<br>of soft robots</h3>
 </td>
 <td align="center" valign="top" width="33%" style="padding: 6px 10px 4px; border: none;">
