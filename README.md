@@ -28,11 +28,17 @@ My interests lie in the integration of compliant control and machine learning fo
   <h3 style="margin: 0;">Interaction control<br>of soft robots</h3>
 </td>
 <td align="center" valign="top" width="33%" style="padding: 6px 10px 4px; border: none;">
-  <img src="assets/elephant.jpg" alt="Elephant" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 2px solid #dbeafe; display: block; margin: 0 auto 10px;" />
+  <picture>
+    <source srcset="assets/elephant_dark.png" media="(prefers-color-scheme: dark)" />
+    <img src="assets/elephant.png" alt="Elephant" width="180" height="180" />
+  </picture>
   <h3 style="margin: 0;">Modeling and sensing<br>of compliant structures</h3>
 </td>
 <td align="center" valign="top" width="33%" style="padding: 6px 10px 4px; border: none;">
-  <img src="assets/turtle.jpg" alt="Turtle" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 2px solid #dbeafe; display: block; margin: 0 auto 10px;" />
+  <picture>
+    <source srcset="assets/turtle_dark.png" media="(prefers-color-scheme: dark)" />
+    <img src="assets/turtle.png" alt="Turtle" width="180" height="180" />
+  </picture>
   <h3 style="margin: 0;">Design of<br>bio-inspired robots</h3>
 </td>
 </tr>
