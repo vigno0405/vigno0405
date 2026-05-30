@@ -19,7 +19,7 @@ My interests lie in the integration of compliant control and machine learning fo
 <p>
   <picture>
     <source srcset="assets/octopus_dark.png" media="(prefers-color-scheme: dark)" />
-    <img src="assets/octopus.png" alt="Octopus" width="72" height="72" align="left" hspace="16" />
+    <img src="assets/octopus.png" alt="Octopus" width="100" height="100" align="left" hspace="16" />
   </picture>
   <b>Interaction control of soft robots</b>
 </p>
@@ -29,7 +29,7 @@ My interests lie in the integration of compliant control and machine learning fo
 <p>
   <picture>
     <source srcset="assets/elephant_dark.png" media="(prefers-color-scheme: dark)" />
-    <img src="assets/elephant.png" alt="Elephant" width="72" height="72" align="left" hspace="16" />
+    <img src="assets/elephant.png" alt="Elephant" width="100" height="100" align="left" hspace="16" />
   </picture>
   <b>Modeling and sensing of compliant structures</b>
 </p>
@@ -39,7 +39,7 @@ My interests lie in the integration of compliant control and machine learning fo
 <p>
   <picture>
     <source srcset="assets/turtle_dark.png" media="(prefers-color-scheme: dark)" />
-    <img src="assets/turtle.png" alt="Turtle" width="72" height="72" align="left" hspace="16" />
+    <img src="assets/turtle.png" alt="Turtle" width="100" height="100" align="left" hspace="16" />
   </picture>
   <b>Design of bio-inspired robots</b>
 </p>
