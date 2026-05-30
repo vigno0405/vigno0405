@@ -16,32 +16,32 @@ My interests lie in the integration of compliant control and machine learning fo
 
 <br>
 
-<div align="center">
-
-<table style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td align="center" valign="top" width="33%" style="padding: 6px 10px 4px; border: none;">
+<table>
+<tr>
+<td width="120" align="center">
   <picture>
     <source srcset="assets/octopus_dark.png" media="(prefers-color-scheme: dark)" />
-    <img src="assets/octopus.png" alt="Octopus" width="180" height="180" />
+    <img src="assets/octopus.png" alt="Octopus" width="96" height="96" />
   </picture>
-  <h3 style="margin: 0;">Interaction control<br>of soft robots</h3>
 </td>
-<td align="center" valign="top" width="33%" style="padding: 6px 10px 4px; border: none;">
+<td><b>Interaction control of soft robots</b></td>
+</tr>
+<tr>
+<td width="120" align="center">
   <picture>
     <source srcset="assets/elephant_dark.png" media="(prefers-color-scheme: dark)" />
-    <img src="assets/elephant.png" alt="Elephant" width="180" height="180" />
+    <img src="assets/elephant.png" alt="Elephant" width="96" height="96" />
   </picture>
-  <h3 style="margin: 0;">Modeling and sensing<br>of compliant structures</h3>
 </td>
-<td align="center" valign="top" width="33%" style="padding: 6px 10px 4px; border: none;">
+<td><b>Modeling and sensing of compliant structures</b></td>
+</tr>
+<tr>
+<td width="120" align="center">
   <picture>
     <source srcset="assets/turtle_dark.png" media="(prefers-color-scheme: dark)" />
-    <img src="assets/turtle.png" alt="Turtle" width="180" height="180" />
+    <img src="assets/turtle.png" alt="Turtle" width="96" height="96" />
   </picture>
-  <h3 style="margin: 0;">Design of<br>bio-inspired robots</h3>
 </td>
+<td><b>Design of bio-inspired robots</b></td>
 </tr>
 </table>
-
-</div>
